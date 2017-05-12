@@ -45,7 +45,7 @@ avatar: "/img/avatar-icon.png"
 author:
   name: Carlton Mason
   email: "carlton.mason@gmail.com"
-  facebook: yourname  # eg. daattali
+  facebook:   # eg. daattali
   github: carltonmason    # eg. daattali
   twitter: carltonmason   # eg. daattali
   reddit:     # eg. daattali
@@ -62,13 +62,13 @@ author:
 # Select which links to show in the footer
 footer-links-active:
   rss: false
-  facebook: true
+  facebook: false
   email: true
   twitter: true
   google-plus: false
   github: true
   reddit: false
-  linkedin: false
+  linkedin: true
   xing: false
   stackoverflow: false
   snapchat: false
@@ -80,13 +80,13 @@ footer-links-active:
 # Select which share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
+  facebook: false
   google: false
   linkedin: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "carltonmason.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
