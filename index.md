@@ -1,7 +1,7 @@
 ---
 layout: page
-title: My website
-subtitle: This is where I will tell my friends way too much about me
+title: Carlton Mason Software Development Manager and Transformation Leader
+subtitle: Leveraging Lean, Agile, DevOps, and Cloud Native engineering to improve velocity,quality, agility, and ultimately business outcomes
 use-site-title: true
 ---
 
