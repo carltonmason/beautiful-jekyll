@@ -33,7 +33,7 @@ You can learn more about my roles and accomplishments in my [LinkedIn profile](h
 
 <p>
  <a class="twitter-timeline"
- href="https://twitter.com/CharlotteHase"
+ href="https://twitter.com/carltonmason"
  data-widget-id="340639437736255489"
  data-chrome="nofooter noborders transparent" data-tweet-limit="3">I am tweeting (@CharlotteHase)</a>
  <script>
