@@ -9,6 +9,9 @@ Yesterday's traditional software development practices, architectures, organizat
 
 While the new digital reality is driven by technology, it is actually people and teams who learn how to leverage this technology through software that are able to define a version of this new reality that benefits their business.
 
+> Knowledge is the currency of the information-age. In the race to thrive or survive, whoever can create knowledge the quickest, most cheaply and to the best fidelity will win.  - Barry O'Reilly
+
+
 ## What I Am Known For
 
 I am a seasoned pragmatic software development leader with years of experience leading teams from 10-100 talented people and a track record of successful delivery of multiple large complex products.
@@ -26,5 +29,5 @@ Resilient, adaptable, and resourceful problem solver since change and obstacles 
 - **University of Houston-Clear Lake**, Master of Scient(MS), Software Engineering
 - **Texas State University**, Bachelor of Science (BS), Computer Science
 
-You can learn more about my roles and accomplishments in my LinkedIn profile https://www.linkedin.com/in/carltonmason/
+You can learn more about my roles and accomplishments in my [LinkedIn profile](https://www.linkedin.com/in/carltonmason/)
 
