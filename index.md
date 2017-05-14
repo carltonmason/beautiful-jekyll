@@ -26,20 +26,24 @@ Resilient, adaptable, and resourceful problem solver since change and obstacles 
 
 ## Experience Highlights
 
-**Agile, DevOps, Cloud Native Transformation Coach**, IBM, Austin, TX
-2015 - Present
+**Agile, DevOps, Cloud Native Transformation Coach**, IBM, Austin, TX, 2015 - Present
+
 Accelerate engineering teams transformation to contemporary Cloud Native development on IBM Bluemix Cloud through boot-camp traing, coaching, consulting, technical assistance.
 
-**Program Director Software Development**, IBM, Austin, TX
-2010 - 2015
+Key Results
+- 50% productivity increase in many engineering teams by reducing distrations, automating CI & CD
+- 25-75% increase in delivery to production by working in small batches, microservices, test automation
+- Months shaved off initial delivery by organizing into self-contained squads around value capability and removing dependencies
+
+**Program Director Software Development**, IBM, Austin, TX, 2010 - 2015
+
 Program Director of 100 person development team on IBM's flagship enterprise J2EE WebSphere Application Server.  Delivered multiple releases of new product features in Security, System Managment, User Interface, Web Services, Hypervisor Images.
 
-**Senior Software Development Manager**, IBM, Austin, TX
-2003 - 2010
+**Senior Software Development Manager**, IBM, Austin, TX, 2003 - 2010
 Led multiple development teams delivering new Security and Web Services features in WebSphere Application Server.
 
 ## Skills Highlights
-Certified Scrum Master | Agile | DevOps | Team Leadership | Continuous Integration and Delivery | Test Automation | Microservices | Agile Estimating and Planning | Kanban | Microservices | Cloud Native Engineering
+Certified Scrum Master | Agile | DevOps | Team Leadership | Continuous Integration and Delivery | Test Automation | Microservices | Agile Estimating and Planning | Kanban | Microservices | Cloud Native Engineering | IBM Bluemix Cloud | J2EE
 
 
 ## Education Highlights
