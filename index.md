@@ -35,7 +35,7 @@ You can learn more about my roles and accomplishments in my [LinkedIn profile](h
  <a class="twitter-timeline"
  href="https://twitter.com/carltonmason"
  data-widget-id="340639437736255489"
- data-chrome="nofooter noborders transparent" data-tweet-limit="3">I am tweeting (@CharlotteHase)</a>
+ data-chrome="nofooter noborders transparent" data-tweet-limit="3">I am tweeting (@carltonmason)</a>
  <script>
 						!function(d, s, id) {
 							var js, fjs = d.getElementsByTagName(s)[0], p = /^http:/
