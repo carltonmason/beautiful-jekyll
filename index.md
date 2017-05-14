@@ -7,7 +7,7 @@ use-site-title: true
 
 Yesterday's traditional software development practices, architectures, organization structures, and leadership styles are a poor fit for today's new digital reality. Cloud, Mobile Apps, and Social Media are radically reshaping entire industries.
 
-While the new digital reality is driven by technology, it is actually people and teams who learn how to leverage this technology through software that are able to define a version of this new reality that benefits their business.
+While the new digital reality is driven by technology, it is actually people and teams who learn how to leverage this technology through software that are able to define a version of this new reality that benefits their customers and business.
 
 > Knowledge is the currency of the information-age. In the race to thrive or survive, whoever can create knowledge the quickest, most cheaply and to the best fidelity will win.  - Barry O'Reilly
 
@@ -31,9 +31,12 @@ Resilient, adaptable, and resourceful problem solver since change and obstacles 
 Accelerate engineering teams transformation to contemporary Cloud Native development on IBM Bluemix Cloud through boot-camp traing, coaching, consulting, technical assistance.
 
 Key Results
-- 50% productivity increase in many engineering teams by reducing distrations, automating CI & CD
-- 25-75% increase in delivery to production by working in small batches, microservices, test automation
-- Months shaved off initial delivery by organizing into self-contained squads around value capability and removing dependencies
+- 50% productivity increase in many engineering teams by reducing distractions, automating CI & CD
+- 25-75% increase in frequency of delivery to production by working in small batches, microservices, deployment automation
+- Months shaved off initial delivery by organizing into self-contained squads around value capability, removing dependencies, and communication paths
+- 25 DevOps and Cloud Native Engineering and Leadership bootcamps delivered to almost 1000 people to acclerate their transition to DevOps and Cloud Native  engineering principals and practices
+- Onboarded hundreds of teams to new tools such as Slack, GitHub Enterprise, and Jenkins
+- Created and delivered content and exercises for DevOps and Cloud Native engineering boot-camps.  Content covered Pair-programming, Test Driven and Behaviour Driven Development, Test Automation Strategy, Continuous Integration, Delivery, Deployment, microservices, monitoring, metrics, Squad/Tribe organization design, circuit-breakers, design for failure, and etc.
 
 **Program Director Software Development**, IBM, Austin, TX, 2010 - 2015
 
