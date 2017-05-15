@@ -27,8 +27,10 @@ Resilient, adaptable, and resourceful problem solver since change and obstacles 
 ---
 ## Experience Highlights
 
-### **Agile, DevOps, Cloud Native Transformation Coach**,  2015 - Present
-IBM, Austin, TX,
+### **Agile, DevOps, Cloud Native Transformation Coach**  
+2015 - Present
+
+IBM, Austin, TX
 
 Accelerate engineering teams transformation to contemporary Cloud Native development on IBM Bluemix Cloud through boot-camp traing, coaching, consulting, technical assistance.
 
@@ -39,7 +41,8 @@ Accelerate engineering teams transformation to contemporary Cloud Native develop
 - Created and delivered content and exercises for DevOps and Cloud Native engineering boot-camps.  Content covered Pair-programming, Test Driven and Behaviour Driven Development, Test Automation Strategy, Continuous Integration, Delivery, Deployment, microservices, monitoring, metrics, Squad/Tribe organization design, circuit-breakers, design for failure, and etc.
 - Recognized with an IBM Outstanding Technical Achievement Award for sharing DevOps expertise in the development of the [IBM Bluemix Garage Method](https://www.ibm.com/devops/method/){:target="_blank"} 
 
-### **Program Director Software Development**, IBM, Austin, TX, 2010 - 2015
+### **Program Director Software Development**  2010 - 2015
+IBM, Austin, TX
 
 Program Director of software development team on IBM's flagship enterprise J2EE WebSphere Application Server.  
 
@@ -48,7 +51,8 @@ Program Director of software development team on IBM's flagship enterprise J2EE 
 - 40% build time improvement through refactoring and improving build automation with virtualization, hardware and software upgrades which improved the productivity of the entire WebSphere development team
 - 15% YoY reduction in customer  opened tickets by investing in improving serviceability of high ticket component areas that enable customers to self-help themselves
 
-### **Senior Software Development Manager**, IBM, Austin, TX, 2003 - 2010
+### **Senior Software Development Manager** 2003 - 2010
+IBM, Austin, TX, 
 Senior software development manager on WebSphere Application Server.
 
 #### **Notable Results**
