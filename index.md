@@ -5,7 +5,7 @@ subtitle: A seasoned modern development manager leveraging Lean, Agile, DevOps, 
 use-site-title: true
 ---
 
-Yesterday's traditional software development practices, architectures, organization structures, and leadership styles are a poor fit for today's new digital reality. Cloud, Mobile Apps, and Social Media are radically reshaping entire industries and also a game changer for software development.
+Yesterday's traditional software development practices, architectures, organization structures, and leadership styles are a poor fit for today's new digital reality. Cloud, Mobile Apps, and Social Media are radically reshaping entire industries and are game changer for software development.
 
 While the new digital reality is driven by technology, it is actually people and teams who learn how to leverage this technology through software that are able to define a version of this new reality that benefits their customers and business.
 
