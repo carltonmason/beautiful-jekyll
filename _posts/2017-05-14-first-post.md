@@ -19,4 +19,6 @@ Here is why I chose this route:
 
 I still have a lot to learn and work to do to get my site looking great but, I've got a good start with out much effort and zero cost.
 
+If you are interested in trying this out, go visit Dean's site [here](http://deanattali.com/beautiful-jekyll/){:target="_blank"} and then click on the green "Get Started" button and follow the directions. 
+
 Oh, and Happy Mother's Day too if you happen to be a mother.
