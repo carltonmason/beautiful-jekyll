@@ -13,7 +13,7 @@ While the new digital reality is driven by technology, it is actually people and
 
 
 ## What I Am Known For
-
+---
 I am a seasoned pragmatic software development leader with years of experience leading teams from 10-100 talented people and a track record of successful delivery of multiple large complex products.
 
 Most importantly, I create the conditions for teams to succeed by getting the right people in the right place, provide clarity on desired outcomes, growing team capacity to continuously experiment, learn, grow, think big, act small, and enable them lead themselves by getting out of their way.
@@ -25,7 +25,7 @@ Network with and build authentic relationships with key leaders, stakeholders, u
 Resilient, adaptable, and resourceful problem solver since change and obstacles are inevitable. Skilled at quickly getting the problem clearly articulated, getting multiple points of view, researching prior solutions, identifying and evaluating options, risks, costs, constraints, dependencies, and quickly experimenting to find a viable solution.
 
 ## Experience Highlights
-
+---
 **Agile, DevOps, Cloud Native Transformation Coach**, IBM, Austin, TX, 2015 - Present
 
 Accelerate engineering teams transformation to contemporary Cloud Native development on IBM Bluemix Cloud through boot-camp traing, coaching, consulting, technical assistance.
@@ -56,10 +56,12 @@ Senior software development manager on WebSphere Application Server.
 - Recognized with IBM Oustanding Software Group Management award for people leadership
 
 ## Skills Highlights
+---
 Certified Scrum Master | Agile | DevOps | Team Leadership | Agile and DevOps Transformation | Continuous Integration and Delivery | Test Automation | Microservices | Agile Estimating and Planning | Kanban | Microservices | Cloud Native Engineering | IBM Bluemix Cloud | Docker | J2EE
 
 
 ## Education Highlights
+---
 - **University of Houston-Clear Lake**, Master of Scient(MS), Software Engineering
 - **Texas State University**, Bachelor of Science (BS), Computer Science
 
