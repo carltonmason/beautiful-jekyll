@@ -5,7 +5,7 @@ subtitle: A seasoned modern development manager leveraging Lean, Agile, DevOps, 
 use-site-title: true
 ---
 
-Yesterday's traditional software development practices, architectures, organization structures, and leadership styles are a poor fit for today's new digital reality. Cloud, Mobile Apps, and Social Media are radically reshaping entire industries.
+Yesterday's traditional software development practices, architectures, organization structures, and leadership styles are a poor fit for today's new digital reality. Cloud, Mobile Apps, and Social Media are radically reshaping entire industries and also a game changer for software development.
 
 While the new digital reality is driven by technology, it is actually people and teams who learn how to leverage this technology through software that are able to define a version of this new reality that benefits their customers and business.
 
@@ -40,7 +40,14 @@ Key Results
 
 **Program Director Software Development**, IBM, Austin, TX, 2010 - 2015
 
-Program Director of 100 person development team on IBM's flagship enterprise J2EE WebSphere Application Server.  Delivered multiple releases of new product features in Security, System Managment, User Interface, Web Services, Hypervisor Images.
+Program Director of software development team on IBM's flagship enterprise J2EE WebSphere Application Server.  Delivered multiple releases of new product features in Security, System Managment, User Interface, Web Services, and Hypervisor Images.
+
+Key Results
+- Led a 100 person development team, 5 managers, and 3 architects responsible for the architecture, implementation, build, testing, documentation, user interface, and customer support for multiple releases of the security, system administration, web services, user interface, and public/private cloud hypervisor images of WebSphere Application Server
+- 40% build time improvement through refactoring and improving build automation with virtualization, hardware and software upgrades which improved the productivity of the entire WebSphere development team
+- 15% YoY reduction in customer  opened tickets by investing in improving serviceability of high ticket component areas.
+- Let the adoption of secure engineering practices in my area to reduce the potential for latent security vulnerabilities.
+- Delivered early DevOps and Continuous Delivery training to over 100 based Austin managers as part of an early initiative to organization transformation.
 
 **Senior Software Development Manager**, IBM, Austin, TX, 2003 - 2010
 Led multiple development teams delivering new Security and Web Services features in WebSphere Application Server.
