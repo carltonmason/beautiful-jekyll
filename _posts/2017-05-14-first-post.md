@@ -6,7 +6,7 @@ tags: [beautiful-jekyll, jekyll, gitpages, personal-website]
 
 Well, here we go with my first post on my new personal website built on GitPages.
 
-I used to have a WordPress site and paid for hosting but, I never really got into it and eventually took it down.  There is nothing wrong with WordPress, it is very powerful and has an amzing ecosystem built around it.
+I used to have a WordPress site and paid for hosting but, I never really got into it and eventually took it down.  There is nothing wrong with WordPress, it is very powerful and has an amazing ecosystem built around it.
 
 What changed for me to recreate a personal website was the need to build more of a on-line presence and share some things I have found useful.  I knew if I could find a very simple, attractive, and low cost solution, I was more likely to keep it current and enjoy it.
 
