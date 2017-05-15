@@ -37,6 +37,7 @@ Key Results
 - 25 DevOps and Cloud Native Engineering and Leadership bootcamps delivered to almost 1000 people to acclerate their transition to DevOps and Cloud Native  engineering principals and practices
 - Onboarded hundreds of teams to new tools such as Slack, GitHub Enterprise, and Jenkins
 - Created and delivered content and exercises for DevOps and Cloud Native engineering boot-camps.  Content covered Pair-programming, Test Driven and Behaviour Driven Development, Test Automation Strategy, Continuous Integration, Delivery, Deployment, microservices, monitoring, metrics, Squad/Tribe organization design, circuit-breakers, design for failure, and etc.
+- Recognized with an IBM Outstanding Technical Achievement Award for sharing DevOps expertise in the development of the [IBM Bluemix Garage Method](https://www.ibm.com/devops/method/) 
 
 **Program Director Software Development**, IBM, Austin, TX, 2010 - 2015
 
@@ -45,9 +46,9 @@ Program Director of software development team on IBM's flagship enterprise J2EE 
 Key Results
 - Led a 100 person development team, 5 managers, and 3 architects responsible for the architecture, implementation, build, testing, documentation, user interface, and customer support for multiple releases of the security, system administration, web services, user interface, and public/private cloud hypervisor images of WebSphere Application Server
 - 40% build time improvement through refactoring and improving build automation with virtualization, hardware and software upgrades which improved the productivity of the entire WebSphere development team
-- 15% YoY reduction in customer  opened tickets by investing in improving serviceability of high ticket component areas.
+- 15% YoY reduction in customer  opened tickets by investing in improving serviceability of high ticket component areas that enable customers to self-help themselves
 - Let the adoption of secure engineering practices in my area to reduce the potential for latent security vulnerabilities.
-- Delivered early DevOps and Continuous Delivery training to over 100 based Austin managers as part of an early initiative to organization transformation.
+- Delivered early DevOps and Continuous Delivery training to over 100 based Austin managers as part of an early initiative to organization transformation
 
 **Senior Software Development Manager**, IBM, Austin, TX, 2003 - 2010
 Led multiple development teams delivering new Security and Web Services features in WebSphere Application Server.
