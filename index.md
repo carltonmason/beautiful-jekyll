@@ -67,7 +67,7 @@ Senior software development manager on WebSphere Application Server.
 
 Certified Scrum Master | Agile | DevOps | Team Leadership | Agile and DevOps Transformation | Continuous Integration and Delivery | Cloud Native Engineering |  Microservices | Docker  | Python | Jenkins | Kanban | IBM Bluemix Cloud | Test Automation | J2EE | Agile Estimating and Planning
 
----
+
 ## Education Highlights
 
 - **University of Houston-Clear Lake**, Master of Scient(MS), Software Engineering
