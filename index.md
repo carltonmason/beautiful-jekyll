@@ -31,13 +31,13 @@ Resilient, adaptable, and resourceful problem solver since change and obstacles 
 2015 - Present,
 IBM, Austin, TX
 
-Accelerate engineering teams transformation to contemporary Cloud Native development on IBM Bluemix Cloud through boot-camp traing, coaching, consulting, technical assistance.
+Accelerate engineering teams transformation to contemporary Cloud Native development on IBM Bluemix Cloud through boot-camp training, coaching, consulting, technical assistance.
 
 #### **Notable Results**
 - 50% productivity increase in many engineering teams by reducing distractions, automating CI & CD
 - 25-75% increase in frequency of delivery to production by working in small batches, microservices, deployment automation
 - Months shaved off initial delivery by organizing into self-contained squads around value capability, removing dependencies, and communication paths
-- Created and delivered content and exercises for DevOps and Cloud Native engineering boot-camps.  Content covered Pair-programming, Test Driven and Behaviour Driven Development, Test Automation Strategy, Continuous Integration, Delivery, Deployment, microservices, monitoring, metrics, Squad/Tribe organization design, circuit-breakers, design for failure, and etc.
+- Created and delivered content and exercises for DevOps and Cloud Native engineering boot-camps.  Content covered Pair-programming, Test Driven and Behavior Driven Development, Test Automation Strategy, Continuous Integration, Delivery, Deployment, microservices, monitoring, metrics, Squad/Tribe organization design, circuit-breakers, design for failure, and etc.
 - Recognized with an IBM Outstanding Technical Achievement Award for sharing DevOps expertise in the development of the [IBM Bluemix Garage Method](https://www.ibm.com/devops/method/){:target="_blank"} 
 
 ### **Program Director Software Development**  
@@ -71,7 +71,7 @@ Certified Scrum Master | Agile | DevOps | Team Leadership | Agile and DevOps Tra
 
 ## Education Highlights
 
-- **University of Houston-Clear Lake**, Master of Scient(MS), Software Engineering
+- **University of Houston-Clear Lake**, Master of Science (MS), Software Engineering
 
 - **Texas State University**, Bachelor of Science (BS), Computer Science
 
