@@ -56,7 +56,7 @@ Senior software development manager on WebSphere Application Server.
 - Recognized with IBM Oustanding Software Group Management award for people leadership
 
 ## Skills Highlights
-Certified Scrum Master | Agile | DevOps | Team Leadership | Agile and DevOps Transformation | Continuous Integration and Delivery | Test Automation | Microservices | Agile Estimating and Planning | Kanban | Microservices | Cloud Native Engineering | IBM Bluemix Cloud | J2EE
+Certified Scrum Master | Agile | DevOps | Team Leadership | Agile and DevOps Transformation | Continuous Integration and Delivery | Test Automation | Microservices | Agile Estimating and Planning | Kanban | Microservices | Cloud Native Engineering | IBM Bluemix Cloud | Docker | J2EE
 
 
 ## Education Highlights
