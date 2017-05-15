@@ -63,6 +63,7 @@ Certified Scrum Master | Agile | DevOps | Team Leadership | Agile and DevOps Tra
 ## Education Highlights
 ---
 - **University of Houston-Clear Lake**, Master of Scient(MS), Software Engineering
+
 - **Texas State University**, Bachelor of Science (BS), Computer Science
 
 ---
