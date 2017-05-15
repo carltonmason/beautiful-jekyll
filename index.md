@@ -64,6 +64,7 @@ Certified Scrum Master | Agile | DevOps | Team Leadership | Agile and DevOps Tra
 ---
 - **University of Houston-Clear Lake**, Master of Scient(MS), Software Engineering
 - **Texas State University**, Bachelor of Science (BS), Computer Science
+
 ---
 You can learn more about my roles and accomplishments in my [LinkedIn profile](https://www.linkedin.com/in/carltonmason/){:target="_blank"}
 
