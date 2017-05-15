@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Carlton Mason
-subtitle: A seasoned modern development manager leveraging Lean, Agile, DevOps, and Cloud Native engineering to improve velocity,quality, agility, and ultimately business outcomes
+subtitle: A seasoned modern development manager leveraging Lean, Agile, DevOps, and Cloud Native engineering to improve velocity, quality, agility, and ultimately business outcomes
 use-site-title: true
 ---
 
@@ -35,7 +35,7 @@ Accelerate engineering teams transformation to contemporary Cloud Native develop
 - 25-75% increase in frequency of delivery to production by working in small batches, microservices, deployment automation
 - Months shaved off initial delivery by organizing into self-contained squads around value capability, removing dependencies, and communication paths
 - Created and delivered content and exercises for DevOps and Cloud Native engineering boot-camps.  Content covered Pair-programming, Test Driven and Behaviour Driven Development, Test Automation Strategy, Continuous Integration, Delivery, Deployment, microservices, monitoring, metrics, Squad/Tribe organization design, circuit-breakers, design for failure, and etc.
-- Recognized with an IBM Outstanding Technical Achievement Award for sharing DevOps expertise in the development of the [IBM Bluemix Garage Method](https://www.ibm.com/devops/method/) 
+- Recognized with an IBM Outstanding Technical Achievement Award for sharing DevOps expertise in the development of the [IBM Bluemix Garage Method](https://www.ibm.com/devops/method/){:target="_blank"} 
 
 **Program Director Software Development**, IBM, Austin, TX, 2010 - 2015
 
@@ -57,7 +57,7 @@ Senior software development manager on WebSphere Application Server.
 
 ## Skills Highlights
 ---
-Certified Scrum Master | Agile | DevOps | Team Leadership | Agile and DevOps Transformation | Continuous Integration and Delivery | Test Automation | Microservices | Agile Estimating and Planning | Kanban | Microservices | Cloud Native Engineering | IBM Bluemix Cloud | Docker | J2EE
+Certified Scrum Master | Agile | DevOps | Team Leadership | Agile and DevOps Transformation | Continuous Integration and Delivery | Cloud Native Engineering |  Microservices | Docker  | Python | Jenkins | Kanban | IBM Bluemix Cloud | Test Automation | J2EE | Agile Estimating and Planning
 
 
 ## Education Highlights
@@ -65,5 +65,5 @@ Certified Scrum Master | Agile | DevOps | Team Leadership | Agile and DevOps Tra
 - **University of Houston-Clear Lake**, Master of Scient(MS), Software Engineering
 - **Texas State University**, Bachelor of Science (BS), Computer Science
 
-You can learn more about my roles and accomplishments in my [LinkedIn profile](https://www.linkedin.com/in/carltonmason/)
+You can learn more about my roles and accomplishments in my [LinkedIn profile](https://www.linkedin.com/in/carltonmason/){:target="_blank"}
 
