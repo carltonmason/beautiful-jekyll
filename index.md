@@ -53,13 +53,14 @@ Program Director of software development team on IBM's flagship enterprise J2EE 
 
 ### **Senior Software Development Manager** 
 2003 - 2010,
-IBM, Austin, TX, 
+IBM, Austin, TX
+
 Senior software development manager on WebSphere Application Server.
 
 #### **Notable Results**
 - Led security and web services teams developing new features related to OAuth, SAML, Open ID Connect, JAX-RS, Apache Axis2, Apache Wink
 - Led security team to first WebSphere Common Criteria security certification which enabled the product to compete in industries where Common Criteria is a requirement
-- Key leader on the Agile transformation of the 400+ person WebSphere Application Server product development team.  Release cycles reduced from 18 months to quarterly over a couple of years
+- Reduced cycle time by 77% as a leader on the Agile transformation of the 400+ person WebSphere Application Server product development team.  
 - Recognized with IBM Oustanding Software Group Management award for people leadership
 
 ---
