@@ -27,7 +27,7 @@ navbar-links:
   Blog: "blog"
   Resources:
     - Conference presentation: "https://www.slideshare.net/ckmason/4201-inter-connect17devopstransformation"
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/{:target="_blank"}"
+    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/" {:target="_blank"}"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
 #    - GitHub Pages: "https://pages.github.com/"
   Author's home: "http://carltonmason.github.io"
