@@ -61,7 +61,7 @@ Senior software development manager on WebSphere Application Server.
 - Led security and web services teams developing new features related to OAuth, SAML, Open ID Connect, JAX-RS, Apache Axis2, Apache Wink
 - Led security team to first WebSphere Common Criteria security certification which enabled the product to compete in industries where Common Criteria is a requirement
 - Reduced cycle time by 77% as a leader on the Agile transformation of the 400+ person WebSphere Application Server product development team.  
-- Recognized with IBM Oustanding Software Group Management award for people leadership
+- Recognized with IBM Outstanding Software Group Management award for people leadership
 
 ---
 ## Skills Highlights
