@@ -27,7 +27,8 @@ Resilient, adaptable, and resourceful problem solver since change and obstacles 
 ---
 ## Experience Highlights
 
-### **Agile, DevOps, Cloud Native Transformation Coach**, IBM, Austin, TX, 2015 - Present
+### **Agile, DevOps, Cloud Native Transformation Coach**,  2015 - Present
+IBM, Austin, TX,
 
 Accelerate engineering teams transformation to contemporary Cloud Native development on IBM Bluemix Cloud through boot-camp traing, coaching, consulting, technical assistance.
 
