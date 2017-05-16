@@ -140,7 +140,12 @@ document.addEventListener('DOMContentLoaded', main.init);
 $(document).ready(function() {
 	$('.opener').on('click', function() {
 		var target = $(this).data('target');
-		$(target).addClass('active');
-		$(this).html('');
+		if($(target).hasClass('active')) {
+			$(target).removeClass('active');
+			$(this).html('Read more');
+		} else {
+			$(target).addClass('active');
+			$(this).html('Read less');
+		}
 	});
 });
