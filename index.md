@@ -24,57 +24,39 @@ Network with and build authentic relationships with key leaders, stakeholders, u
 
 Resilient, adaptable, and resourceful problem solver since change and obstacles are inevitable. Skilled at quickly getting the problem clearly articulated, getting multiple points of view, researching prior solutions, identifying and evaluating options, risks, costs, constraints, dependencies, and quickly experimenting to find a viable solution.
 
----
-## Experience Highlights
-
-### **Agile, DevOps, Cloud Native Transformation Coach**  
-2015 - Present,
-IBM, Austin, TX
-
-Accelerate engineering teams transformation to contemporary Cloud Native development on IBM Bluemix Cloud through boot-camp training, coaching, consulting, technical assistance.
-
-#### **Notable Results**
-- 50% productivity increase in many engineering teams by reducing distractions, automating CI & CD
-- 25-75% increase in frequency of delivery to production by working in small batches, microservices, deployment automation
-- Months shaved off initial delivery by organizing into self-contained squads around value capability, removing dependencies, and communication paths
-- Created and delivered content and exercises for DevOps and Cloud Native engineering boot-camps.  Content covered Pair-programming, Test Driven and Behavior Driven Development, Test Automation Strategy, Continuous Integration, Delivery, Deployment, microservices, monitoring, metrics, Squad/Tribe organization design, circuit-breakers, design for failure, and etc.
-- Recognized with an IBM Outstanding Technical Achievement Award for sharing DevOps expertise in the development of the [IBM Bluemix Garage Method](https://www.ibm.com/devops/method/){:target="_blank"} 
-
-### **Program Director Software Development**  
-2010 - 2015, 
-IBM, Austin, TX
-
-Program Director of software development team on IBM's flagship enterprise J2EE WebSphere Application Server.  
-
-#### **Notable Results**
-- Led a 100 person development team, 5 managers, and 3 architects responsible for the architecture, implementation, build, testing, documentation, user interface, and customer support for multiple releases of the security, system administration, web services, user interface, and public/private cloud hypervisor images of WebSphere Application Server
-- 40% build time improvement through refactoring and improving build automation with virtualization, hardware and software upgrades which improved the productivity of the entire WebSphere development team
-- 15% YoY reduction in customer  opened tickets by investing in improving serviceability of high ticket component areas that enable customers to self-help themselves
-
-### **Senior Software Development Manager** 
-2003 - 2010,
-IBM, Austin, TX
-
-Senior software development manager on WebSphere Application Server.
-
-#### **Notable Results**
-- Led security and web services teams developing new features related to OAuth, SAML, Open ID Connect, JAX-RS, Apache Axis2, Apache Wink
-- Led security team to first WebSphere Common Criteria security certification which enabled the product to compete in industries where Common Criteria is a requirement
-- Reduced cycle time by 77% as a leader on the Agile transformation of the 400+ person WebSphere Application Server product development team.  
-- Recognized with IBM Outstanding Software Group Management award for people leadership
+Please see my [Experience page](https://carltonmason.github.io/experience/) on this site for more details on my professional experience highlights, education, skills and such.   My [LinkedIn Profile](https://www.linkedin.com/in/carltonmason/){:target="_blank"}  has more information as well.
 
 ---
-## Skills Highlights
-Certified Scrum Master | Agile | DevOps | Team Leadership | Agile and DevOps Transformation | Continuous Integration and Delivery | Cloud Native Engineering |  Microservices | Docker  | Python | Jenkins | Kanban | IBM Bluemix Cloud | Test Automation | GitHub | Zenhub | Vagrant | J2EE | Agile Estimating and Planning
+## How I Got Here
 
----
+After serving four years in the US Navy, then getting a bachelor's degree in Computer Science,  my first job was at IBM as software system tester.  That first role as a tester instilled a deep quality mindset that I've carried into all my other roles in software and I've had quite a few.  I've been a system tester, a developer, function tester and test lead, software architect, customer support engineer (that was really hard), lead build engineer, Scrum Master, Agile-DevOps-Clou Native transformation coach (that was a lot of fun), development manager, and up-line development manager.  Along the way I got my Master's Degree in Software Engineering.  
 
-## Education Highlights
+Many of my peers were surprised when I took my first software development management job as I absolutely loved writing code and solving technical challenges.   While I knew I was making an impact as a strong developer, I knew I could amplify my imapct as manager by fixing, improving, and getting rid of all the silly things that were slowing me and my team down. I have made a a difference in all my leaership roles but, it was always much more difficult than I ever imagined.  
 
-- **University of Houston-Clear Lake**, Master of Science (MS), Software Engineering
+## Things I've Learned So far
 
-- **Texas State University**, Bachelor of Science (BS), Computer Science
+In no particular order...
 
----
-You can learn more about my roles and accomplishments in my [LinkedIn profile](https://www.linkedin.com/in/carltonmason/){:target="_blank"}
+There is no coasting in this profession - you are either learning continuously to stay current or you are falling behind and at risk of being marginalized and putting your livelyhood at risk. I read a lot, and you should too.
+
+Take care of the people around you both those above you, your peers, and those more junior to you.   Be nice, helpful, honest, and respectful as you never know you may work for or need their help in the future. People and relationships matter a great deal - don't burn any bridges.  "Take this job and shove it" only works in country songs or if you win the lottery.
+
+Be compentent in multiple things and deep in a few.  The more varied your skills and abilities, the more adaptable, resilient and valuable you are.
+
+Hire for attitude, enthusiasm, willingness to learn, and culture fit over GPA, school, experience or silly interview tests.
+
+Beware of clinging to yesterday's best practices or blindly following best practices of others.  Best practices are usually a counter measure to something and relevant in some context.  As Neal Ford said at Thoughtworks (paraphrased from memory): "Yesterday's best practices are tomorrow's anti-patterns..." - something like that. Seek to understand principles first then best practices.
+
+Get your hands dirty, experiment, actually try things even if you don't know squat about them.  Experential learning is humbling and rewarding.  Discomfort is part of learning.
+
+Expect obstacles, set backs, resistance, interruptions, politics, and other unsavory things you wished you didn't have to deal with.  I don't think I have ever seen anything worthwhile happen go according to plan. Adapt, adjust, and move on.
+
+There is never enough time, people, or resources. Remove distractions, constantly seek clarity on desired outcomes, prioritize ruthlessly, manage expectations, be honest and realistic and firm when you must, don't promise what you can't deliver but don't be afraid to stretch.
+
+Taking the initiative, resourcefulness, persistance will help you succeed.
+
+Your health is your greatest asset.  Take care of yourself, make it a priority.
+
+
+
 
