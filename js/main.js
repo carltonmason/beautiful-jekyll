@@ -139,7 +139,7 @@ document.addEventListener('DOMContentLoaded', main.init);
 
 $(document).ready(function() {
 	$('.opener').on('click', function() {
-		var target = $(this).dataset.target;
+		var target = $(this).data('target');
 		$(target).addClass('active');
 	});
 });
