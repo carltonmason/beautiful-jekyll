@@ -696,6 +696,7 @@ td.gutter {
   overflow: hidden;
   color: #FFF;
   transition: all 0.9s ease-in-out;
+  margin-top: -10px;
 }
 .opener-content.active {
   height: inherit;
