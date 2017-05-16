@@ -33,7 +33,7 @@ After serving four years in the US Navy, then getting a bachelor's degree in Com
 
 I've been a system tester, a developer, function tester and test lead, software architect, customer support engineer (that was really hard), lead build engineer, Scrum Master, Agile-DevOps-Cloud Native transformation coach (that was a lot of fun), development manager, and up-line development manager.  Along the way I got my Master's Degree in Software Engineering.  
 
-Many of my peers were surprised when I took my first software development management job as I absolutely loved writing code and solving technical challenges.   While I knew I was making an impact as a strong developer, I knew I could amplify my impact as manager by fixing, improving, and getting rid of all the silly things that were slowing me and my team down. I have made a a difference in all my leadership roles but, it was always much more difficult than I ever imagined.  
+Many of my peers were surprised when I took my first software development management job as I absolutely loved writing code and solving technical challenges.   While I knew I was making an impact as a developer, I knew I could amplify my impact as manager by fixing, improving, and getting rid of all the things that were slowing me and my team down. I have made a a difference in all my leadership roles but, it was always much more difficult than I ever imagined.  
 
 ## Things I've Learned So far
 
@@ -45,7 +45,7 @@ Take care of the people around you both those above you, your peers, and those m
 
 Be competent in multiple things and deep in a few.  The more varied your skills and abilities, the more adaptable, resilient and valuable you are.
 
-Hire for attitude, enthusiasm, willingness to learn, and culture fit over GPA, school, experience or silly interview tests.
+Hire for attitude, enthusiasm, willingness to learn, and culture fit over GPA, school, experience or questionable interview tests.
 
 Beware of clinging to yesterday's best practices or blindly following best practices of others.  Best practices are usually a counter measure to something and relevant in some context.  As Neal Ford said at Thoughtworks (paraphrased from memory): "Yesterday's best practices are tomorrow's anti-patterns..." - something like that. Seek to understand principles first then best practices.
 
