@@ -688,6 +688,7 @@ td.gutter {
   height: 1px;
   overflow: none;
   color: #FFF;
+  transition: all 0.6s;
 }
 .opener-content.active {
   height: inherit;
