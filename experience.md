@@ -14,13 +14,13 @@ Accelerate engineering teams transformation to contemporary Cloud Native develop
 - 50% productivity increase in many engineering teams by reducing distractions, automating CI & CD
 - 25-75% increase in frequency of delivery to production by working in small batches, microservices, deployment automation
 - Months shaved off initial delivery by organizing into self-contained squads around value capability, removing dependencies, and communication paths
-<div class="opener" data-target="#opener-content-1">Read more</div>
 <div id="opener-content-1" class="opener-content">
 <ul>
 <li>Created and delivered content and exercises for DevOps and Cloud Native engineering boot-camps.  Content covered Pair-programming, Test Driven and Behavior Driven Development, Test Automation Strategy, Continuous Integration, Delivery, Deployment, microservices, monitoring, metrics, Squad/Tribe organization design, circuit-breakers, design for failure, and etc.</li>
 <li>Recognized with an IBM Outstanding Technical Achievement Award for sharing DevOps expertise in the development of the <a href="https://www.ibm.com/devops/method/" target="_blank">IBM Bluemix Garage Method</a></li>
 </ul>
 </div>
+<div class="opener" data-target="#opener-content-1">Read more</div>
 
 ### **Program Director Software Development**  
 2010 - 2015, 
