@@ -29,19 +29,19 @@ Please see my [Experience page](https://carltonmason.github.io/experience/) on t
 ---
 ## How I Got Here
 
-After serving four years in the US Navy, then getting a bachelor's degree in Computer Science,  my first job was at IBM as software system tester.  That first role as a tester instilled a deep quality mindset that I've carried into all my other roles in software and I've had quite a few.  I've been a system tester, a developer, function tester and test lead, software architect, customer support engineer (that was really hard), lead build engineer, Scrum Master, Agile-DevOps-Clou Native transformation coach (that was a lot of fun), development manager, and up-line development manager.  Along the way I got my Master's Degree in Software Engineering.  
+After serving four years in the US Navy, then getting a bachelor's degree in Computer Science,  my first job was at IBM as software system tester.  That first role as a tester instilled a deep quality mindset that I've carried into all my other roles in software and I've had quite a few.  I've been a system tester, a developer, function tester and test lead, software architect, customer support engineer (that was really hard), lead build engineer, Scrum Master, Agile-DevOps-Cloud Native transformation coach (that was a lot of fun), development manager, and up-line development manager.  Along the way I got my Master's Degree in Software Engineering.  
 
-Many of my peers were surprised when I took my first software development management job as I absolutely loved writing code and solving technical challenges.   While I knew I was making an impact as a strong developer, I knew I could amplify my imapct as manager by fixing, improving, and getting rid of all the silly things that were slowing me and my team down. I have made a a difference in all my leaership roles but, it was always much more difficult than I ever imagined.  
+Many of my peers were surprised when I took my first software development management job as I absolutely loved writing code and solving technical challenges.   While I knew I was making an impact as a strong developer, I knew I could amplify my impact as manager by fixing, improving, and getting rid of all the silly things that were slowing me and my team down. I have made a a difference in all my leadership roles but, it was always much more difficult than I ever imagined.  
 
 ## Things I've Learned So far
 
 In no particular order...
 
-There is no coasting in this profession - you are either learning continuously to stay current or you are falling behind and at risk of being marginalized and putting your livelyhood at risk. I read a lot, and you should too.
+There is no coasting in this profession - you are either learning continuously to stay current or you are falling behind and at risk of being marginalized and putting your livelihood at risk. I read a lot, and you should too.
 
 Take care of the people around you both those above you, your peers, and those more junior to you.   Be nice, helpful, honest, and respectful as you never know who you may work for or need their help in the future. People and relationships matter a great deal - don't burn any bridges.  "Take this job and shove it" only works in country songs or if you win the lottery.
 
-Be compentent in multiple things and deep in a few.  The more varied your skills and abilities, the more adaptable, resilient and valuable you are.
+Be competent in multiple things and deep in a few.  The more varied your skills and abilities, the more adaptable, resilient and valuable you are.
 
 Hire for attitude, enthusiasm, willingness to learn, and culture fit over GPA, school, experience or silly interview tests.
 
@@ -53,7 +53,7 @@ Expect obstacles, set backs, resistance, interruptions, politics, and other unsa
 
 There is never enough time, people, or resources. Remove distractions, constantly seek clarity on desired outcomes, prioritize ruthlessly, manage expectations, be honest and realistic and firm when you must, don't promise what you can't deliver but don't be afraid to stretch.
 
-Taking the initiative, resourcefulness, persistance will help you succeed.
+Taking the initiative, resourcefulness, persistence will help you succeed.
 
 Your health is your greatest asset.  Take care of yourself, make it a priority.
 
