@@ -1,5 +1,9 @@
+---
+layout: page
+title: Experience Highlights
+subtitle: My professional pedigree
+---
 
-## Experience Highlights
 
 ### **Agile, DevOps, Cloud Native Transformation Coach**  
 2015 - Present,
