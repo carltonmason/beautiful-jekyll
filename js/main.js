@@ -141,5 +141,6 @@ $(document).ready(function() {
 	$('.opener').on('click', function() {
 		var target = $(this).data('target');
 		$(target).addClass('active');
+		$(this).html('');
 	});
 });
