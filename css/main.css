@@ -680,3 +680,13 @@ td.gutter {
 #social-share-section {
   margin-bottom: 30px;
 }
+
+
+
+/* Custom Changes */
+.opener-content {
+  display: none;
+}
+.opener-content.active {
+  display: block;
+}
