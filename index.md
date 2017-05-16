@@ -53,7 +53,7 @@ Expect obstacles, set backs, resistance, interruptions, politics, and other unsa
 
 There is never enough time, people, or resources. Remove distractions, constantly seek clarity on desired outcomes, prioritize ruthlessly, manage expectations, be honest and realistic and firm when you must, don't promise what you can't deliver but don't be afraid to stretch.
 
-Taking the initiative, resourcefulness, persistence will help you succeed.
+Taking the initiative, resourcefulness, and persistence will help you succeed.
 
 Your health is your greatest asset.  Take care of yourself, make it a priority.
 
