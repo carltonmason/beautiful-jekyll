@@ -3,16 +3,6 @@ layout: page
 title: Experience Highlights
 subtitle: My professional pedigree
 ---
-<style>
-  .opener-content {
-     display: none;
-  }
-</style>
-
-<script>
-  
-</script>
-
 
 ### **Agile, DevOps, Cloud Native Transformation Coach**  
 2015 - Present,
