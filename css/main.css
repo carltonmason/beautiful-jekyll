@@ -685,8 +685,12 @@ td.gutter {
 
 /* Custom Changes */
 .opener-content {
-  display: none;
+  height: 1px;
+  overflow: none;
+  color: #FFF;
 }
 .opener-content.active {
-  display: block;
+  height: inherit;
+  overflow: inherit;
+  color: inherit;
 }
