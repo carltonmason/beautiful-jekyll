@@ -39,7 +39,7 @@ In no particular order...
 
 There is no coasting in this profession - you are either learning continuously to stay current or you are falling behind and at risk of being marginalized and putting your livelyhood at risk. I read a lot, and you should too.
 
-Take care of the people around you both those above you, your peers, and those more junior to you.   Be nice, helpful, honest, and respectful as you never know you may work for or need their help in the future. People and relationships matter a great deal - don't burn any bridges.  "Take this job and shove it" only works in country songs or if you win the lottery.
+Take care of the people around you both those above you, your peers, and those more junior to you.   Be nice, helpful, honest, and respectful as you never know who you may work for or need their help in the future. People and relationships matter a great deal - don't burn any bridges.  "Take this job and shove it" only works in country songs or if you win the lottery.
 
 Be compentent in multiple things and deep in a few.  The more varied your skills and abilities, the more adaptable, resilient and valuable you are.
 
