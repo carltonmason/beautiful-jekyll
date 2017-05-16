@@ -684,11 +684,18 @@ td.gutter {
 
 
 /* Custom Changes */
+.opener {
+  color: #0085a1;
+}
+.opener:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
 .opener-content {
   height: 1px;
-  overflow: none;
+  overflow: hidden;
   color: #FFF;
-  transition: all 0.6s;
+  transition: all 0.9s ease-in-out;
 }
 .opener-content.active {
   height: inherit;
