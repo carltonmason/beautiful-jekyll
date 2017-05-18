@@ -2,6 +2,9 @@
 _site
 .sass-cache
 .vagrant
+Gemfile.lock
+.bundle/config
+.jekyll-metadata
 
 # general
 .DS_Store
