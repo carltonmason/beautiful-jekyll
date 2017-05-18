@@ -29,9 +29,9 @@ Please see my [Experience page](https://carltonmason.github.io/experience/) on t
 ---
 ## How I Got Here
 
-Born and raised in Texas, served four years in the US Navy, getting a bachelor's degree in Computer Science,  my first job was at IBM as a software system tester.  That first role as a tester instilled a deep quality mindset that I've carried into all my other roles in software and I've had quite a few.  
+Born and raised in Texas, served four years in the US Navy, earned a bachelor's degree in Computer Science,  my first job was at IBM as a software system tester.  That first role as a tester instilled a deep quality mindset that I've carried into all my other roles in software and I've had quite a few.  
 
-I've been a system tester, a developer for many years, function tester and test lead, software architect, customer support engineer (that was really hard), lead build engineer, Scrum Master, Agile-DevOps-Cloud Native transformation coach (that was a lot of fun), development manager, and up-line development manager.  Along the way I got my Master's Degree in Software Engineering.  
+I've been a system tester, a developer for many years, function tester and test lead, software architect, customer support engineer (that was really hard), lead build engineer, Scrum Master, Agile-DevOps-Cloud Native transformation coach (that was a lot of fun), development manager, and up-line development manager.  Along the way I earned  my Master's Degree in Software Engineering while working full time.  
 
 Many of my peers were surprised when I took my first software development management job some years ago as I absolutely loved writing code and solving technical challenges.   While I was making an impact as a developer, I knew I could amplify my impact as "enabler" by fixing, improving, and getting rid of all the things that were slowing me and my team down. I have made a a difference in all my leadership roles but, it was always much more difficult than I ever imagined.  
 
