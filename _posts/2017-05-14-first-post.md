@@ -19,6 +19,8 @@ Here is why I chose this route:
 
 I still have a lot to learn and work to do to get my site looking great but, I've got a good start with out much effort and zero cost.
 
-If you are interested in trying this out, go visit Dean's site [here](http://deanattali.com/beautiful-jekyll/){:target="_blank"} and then click on the green "Get Started" button and follow the directions. 
+**Update 18-May-17:**  While it is not necessary, I did switch over to running Jekyll locally on my laptop to speed up making changes.  The default docker file that is in the root of the clone of Dean's beautiful-jekyll repo didn't work for me.  I found and used these instructions for [Running Jekyll locally with Docker](https://kristofclaes.github.io/2016/06/19/running-jekyll-locally-with-docker/){target="_blank"} and they worked great.  You will need to also update your .gitignore file to ignore some of the local Jekyll stuff that you don't need in your repo.  Take a peek at mine.
+
+If you are interested in trying this out, go visit Dean's site [here](http://deanattali.com/beautiful-jekyll/){:target="_blank"} and then click on the green "Get Started" button and follow the directions.
 
 Oh, and Happy Mother's Day too if you happen to be a mother.
