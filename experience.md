@@ -53,7 +53,7 @@ Pervasive Software, Austin, TX
 
 ---
 ## Skills Highlights
-**Certified Scrum Master | Agile | DevOps | Team Leadership | Agile and DevOps Transformation | Continuous Integration and Delivery | Cloud Native Engineering |  Microservices | Docker  | Python | Jenkins | Kanban | IBM Bluemix Cloud | Test Automation | GitHub | Zenhub | Vagrant | J2EE | Agile Estimating and Planning**
+Certified Scrum Master | Agile | DevOps | Team Leadership | Agile and DevOps Transformation | Continuous Integration and Delivery | Cloud Native Engineering |  Microservices | Docker  | Python | Jenkins | Kanban | IBM Bluemix Cloud | Test Automation | GitHub | ZenHub | Vagrant | J2EE | Agile Estimating and Planning
 
 ---
 
