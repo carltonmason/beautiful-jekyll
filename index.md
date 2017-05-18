@@ -5,7 +5,7 @@ subtitle: A seasoned modern development manager leveraging Lean, Agile, DevOps, 
 use-site-title: true
 ---
 
-Yesterday's traditional software development practices, architectures, organization structures, and leadership styles are a poor fit for today's new digital reality. Cloud, Mobile Apps, and Social Media are radically reshaping entire industries and are game changer for software development.
+Yesterday's traditional software development practices, architectures, organization structures, and leadership styles are a poor fit for today's new digital reality. Cloud, Mobile Apps, and Social Media are radically reshaping entire industries and are also a game changer for software development.
 
 While the new digital reality is driven by technology, it is actually people and teams who learn how to leverage this technology through software that are able to define a version of this new reality that benefits their customers and business.
 
@@ -20,7 +20,7 @@ Most importantly, I create the conditions for teams to succeed by getting the ri
 
 I leverage a deep working knowledge of Lean, Agile, Continuous Delivery, DevOps, and Cloud Native engineering approaches and apply these modern approaches to enable teams to improve their velocity, quality, agility, and ultimately business outcomes.
 
-Network with and build authentic relationships with key leaders, stakeholders, up and downstream dependencies to connect the dots to business objectives, expedite communication, creating shared context, anticipate issues, manage expectations, avoid surprises, and keep things moving in the right direction.
+Build authentic relationships with key leaders, stakeholders, up and downstream dependencies to connect the dots to business objectives, expedite communication, creating shared context, anticipate issues, manage expectations, avoid surprises, and keep things moving in the right direction.
 
 Resilient, adaptable, and resourceful problem solver since change and obstacles are inevitable. Skilled at quickly getting the problem clearly articulated, getting multiple points of view, researching prior solutions, identifying and evaluating options, risks, costs, constraints, dependencies, and quickly experimenting to find a viable solution.
 
@@ -39,26 +39,24 @@ Many of my peers were surprised when I took my first software development manage
 
 In no particular order...
 
-There is no coasting in this profession - you are either learning continuously to stay current or you are falling behind and at risk of being marginalized and putting your livelihood at risk. I read a lot, and you should too.
++ There is no coasting in this profession - you are either learning continuously to stay current or you are falling behind and at risk of being marginalized and putting your livelihood at risk. I read a lot, and you should too.
 
-Take care of the people around you both those above you, your peers, and those more junior to you.   Be nice, helpful, honest, and respectful as you never know who you may work for or need their help in the future. People and relationships matter a great deal - don't burn any bridges.  "Take this job and shove it" only works in country songs or if you win the lottery.
++ Take care of the people around you both those above you, your peers, and those more junior to you.   Be nice, helpful, honest, and respectful as you never know who you may work for or need their help in the future. People and relationships matter a great deal - don't burn any bridges.  "Take this job and shove it" only works in country songs or if you win the lottery.
 
-Be competent in multiple things and deep in a few.  The more varied your skills and abilities, the more adaptable, resilient and valuable you are.
++ Be competent in multiple things and deep in a few.  The more varied your skills and abilities, the more adaptable, resilient and valuable you are.
 
-Hire for attitude, enthusiasm, willingness to learn, and culture fit over GPA, school, experience or questionable interview tests.
++ Hire for attitude, enthusiasm, willingness to learn, and culture fit over GPA, school, experience or questionable interview tests.
 
-Beware of clinging to yesterday's best practices or blindly following best practices of others.  Best practices are usually a counter measure to something and relevant in some context.  As Neal Ford said at Thoughtworks (paraphrased from memory): "Yesterday's best practices are tomorrow's anti-patterns..." - something like that. Seek to understand principles first then best practices.
++ Beware of clinging to yesterday's best practices or blindly following best practices of others.  Best practices are usually a counter measure to something and relevant in some context.  As Neal Ford said at Thoughtworks (paraphrased from memory): "Yesterday's best practices are tomorrow's anti-patterns..." - something like that. Seek to understand principles first then best practices.
 
-Get your hands dirty, experiment, actually try things even if you don't know squat about them.  Experential learning is humbling and rewarding.  Discomfort is part of learning.
++ Get your hands dirty, experiment, actually try things even if you don't know squat about them.  Experential learning is humbling and rewarding.  Discomfort is part of learning.
 
-Expect obstacles, set backs, resistance, interruptions, politics, and other unsavory things you wished you didn't have to deal with.  I don't think I have ever seen anything worthwhile happen go according to plan. Adapt, adjust, and move on.
++ Expect obstacles, set backs, resistance, interruptions, politics, and other unsavory things you wished you didn't have to deal with.  I don't think I have ever seen anything worthwhile happen go according to plan. Adapt, adjust, and move on.
 
-There is never enough time, people, or resources. Remove distractions, constantly seek clarity on desired outcomes, prioritize ruthlessly, manage expectations, be honest and realistic and firm when you must, don't promise what you can't deliver but don't be afraid to stretch.
++ There is never enough time, people, or resources. Remove distractions, constantly seek clarity on desired outcomes, prioritize ruthlessly, manage expectations, be honest and realistic and firm when you must, don't promise what you can't deliver but don't be afraid to stretch.
 
-Taking the initiative, resourcefulness, and persistence will help you succeed.
++ Taking the initiative, resourcefulness, and persistence will help you succeed.
 
-Your health is your greatest asset.  Take care of yourself, make it a priority.
++ Your health is your greatest asset.  Take care of yourself, make it a priority.
 
-
-
-
+_Again, please see my [Experience page](https://carltonmason.github.io/experience/) on this site for more details on my professional experience highlights, education, skills and such._
