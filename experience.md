@@ -23,7 +23,7 @@ Accelerate engineering teams transformation to contemporary Cloud Native develop
 <div class="opener" data-target="#opener-content-1">Read more</div>
 
 ### **Program Director Software Development**  
-2010 - 2015, 
+2010 - 2015,
 IBM, Austin, TX
 
 Program Director of software development team on IBM's flagship enterprise J2EE WebSphere Application Server.  
@@ -33,7 +33,7 @@ Program Director of software development team on IBM's flagship enterprise J2EE 
 - 40% build time improvement through refactoring and improving build automation with virtualization, hardware and software upgrades which improved the productivity of the entire WebSphere development team
 - 15% YoY reduction in customer  opened tickets by investing in improving serviceability of high ticket component areas that enable customers to self-help themselves
 
-### **Senior Software Development Manager** 
+### **Senior Software Development Manager**
 2003 - 2010,
 IBM, Austin, TX
 
@@ -45,9 +45,15 @@ Senior software development manager on WebSphere Application Server.
 - Reduced cycle time by 77% as a leader on the Agile transformation of the 400+ person WebSphere Application Server product development team.  
 - Recognized with IBM Outstanding Software Group Management award for people leadership
 
+### **Senior Software Engineer**
+IBM, Austin, TX
+
+### **Lead Build Engineer**
+Pervasive Software, Austin, TX
+
 ---
 ## Skills Highlights
-Certified Scrum Master | Agile | DevOps | Team Leadership | Agile and DevOps Transformation | Continuous Integration and Delivery | Cloud Native Engineering |  Microservices | Docker  | Python | Jenkins | Kanban | IBM Bluemix Cloud | Test Automation | GitHub | Zenhub | Vagrant | J2EE | Agile Estimating and Planning
+**Certified Scrum Master | Agile | DevOps | Team Leadership | Agile and DevOps Transformation | Continuous Integration and Delivery | Cloud Native Engineering |  Microservices | Docker  | Python | Jenkins | Kanban | IBM Bluemix Cloud | Test Automation | GitHub | Zenhub | Vagrant | J2EE | Agile Estimating and Planning**
 
 ---
 
