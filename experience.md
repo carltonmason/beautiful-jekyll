@@ -4,8 +4,17 @@ title: Experience Highlights
 subtitle: My professional pedigree
 ---
 
+### ** Continuous Integration and Continuous Delivery Software Architect**
+June 2017 - present
+IBM, Austin, TX
+
+Software architect and team leader focused on on improving developer productivity in one of IBM's several hundred person large development organizations creating Watson cognitive services for IBM's Cloud platform.
+
+I provide technical and architectural direction, team leadership, strategy for creating and operating a hosted self-service Continuous Integration and Delivery (CI/CD) platform.  This platform enables developers on one of IBM Watson's development organizations to build, test, and deploy containerize Kubernetes applications to IBM's Cloud thousands of times a month.
+
+
 ### **Agile, DevOps, Cloud Native Transformation Coach**  
-2015 - Present,
+2015 - June 2017,
 IBM, Austin, TX
 
 Accelerate engineering teams transformation to contemporary Cloud Native development on IBM Bluemix Cloud through boot-camp training, coaching, consulting, technical assistance.
