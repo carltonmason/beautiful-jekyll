@@ -4,7 +4,7 @@ title: Experience Highlights
 subtitle: My professional pedigree
 ---
 
-### ** Continuous Integration and Continuous Delivery Software Architect**
+### **Continuous Integration and Continuous Delivery Software Architect**
 June 2017 - present
 IBM, Austin, TX
 
